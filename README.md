@@ -3,7 +3,7 @@
 ✨ _Welcome to my Github Profile!_ ✨
 
 ### **A Bit About Myself:**
-- 🖥️ I am currently a student of [GetCoding](https://www.getcoding.ca) as I pursue computer coding as a career
+- 🖥️ I am currently a student of [GetCoding](https://www.getcoding.ca), as I want to pursue coding as a career.
 - 🎲 I have an addiction to playing Dungeons and Dragons.
 - 🏫 I previously attended the Memorial University of Newfoundland at Grenfell Campus in Corner Brook, Newfoundland.
 
