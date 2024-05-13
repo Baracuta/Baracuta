@@ -1,14 +1,14 @@
-**👋 Hello! My name is Ben.**
+## **👋 Hello! My name is Ben.**
 
 _Welcome to my Github Profile!_
 
-**A Bit About Myself:**
+### **A Bit About Myself:**
 - ✨ I'm currently a student of GetCoding
 - 👀 I’m pursuing computer coding as a career, and I have a passion for playing Dungeons and Dragons.
 - 🌱 I previously attended the Memorial University of Newfoundland at Grenfell Campus in Corner Brook, Newfoundland.
 - 💞️ I’m not looking to collaborate at the moment, seeing as I'm still learning.
 
-**My Github Statistics:**
+### **My Github Statistics:**
 
 ![Baracuta's Stats](https://github-readme-stats.vercel.app/api?username=Baracuta&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
