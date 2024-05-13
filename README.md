@@ -4,7 +4,7 @@
 
 ### **A Bit About Myself:**
 - 🖥️ I am currently a student of [GetCoding](https://www.getcoding.ca), as I want to pursue coding as a career.🖱️
-- 🎲 I have an addiction to playing Dungeons and Dragons.🐲
+- 🎲 I am addicted to playing _Dungeons & Dragons_.🐲
 - 🏫 I previously attended the Memorial University of Newfoundland at Grenfell Campus in Corner Brook, Newfoundland.📖
 
 ### **My Github Statistics:**
