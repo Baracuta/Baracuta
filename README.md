@@ -7,6 +7,16 @@
 - 🎲 I am addicted to playing _Dungeons & Dragons_.🐲
 - 🏫 I previously attended the Memorial University of Newfoundland at Grenfell Campus in Corner Brook, Newfoundland.📖
 
+### **Projects:**
+- temp Critter-Counter
+- temp Campaign-Companion
+
+### **LinkedIn:**
+- pending
+
+### **Languages & Tech:**
+- pending
+
 ### **My Github Statistics:**
 
 ![Baracuta's Stats](https://github-readme-stats.vercel.app/api?username=Baracuta&theme=dracula&show_icons=true&hide_border=false&count_private=true)
