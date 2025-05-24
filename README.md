@@ -8,14 +8,18 @@
 - 🏫 I previously attended the Memorial University of Newfoundland at Grenfell Campus in Corner Brook, Newfoundland.📖
 
 ### **Projects:**
-- temp Critter-Counter
-- temp Campaign-Companion
+- [Campaign Companion](https://baracuta.github.io/Campaign-Companion/)
+- [Critter Counter](https://baracuta.github.io/DnD-Creature-Counter/)
+- [Git Command Glossary](https://baracuta.github.io/GitCommand-Glossary/)
 
 ### **LinkedIn:**
-- pending
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)]((www.linkedin.com/in/benjamin-funk-6a8303359))
 
 ### **Languages & Tech:**
-- pending
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript) [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![My Skills](https://skillicons.dev/icons?i=css,)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
 
 ### **My Github Statistics:**
 
