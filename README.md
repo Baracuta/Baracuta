@@ -7,12 +7,12 @@
 - 🎲 I am addicted to playing _Dungeons & Dragons_.🐲
 - 🏫 I previously attended the Memorial University of Newfoundland at Grenfell Campus in Corner Brook, Newfoundland.📖
 
-### **Projects:**
+### **My Projects:**
 - [Campaign Companion](https://baracuta.github.io/Campaign-Companion/)
 - [Critter Counter](https://baracuta.github.io/DnD-Creature-Counter/)
 - [Git Command Glossary](https://baracuta.github.io/GitCommand-Glossary/)
 
-### **LinkedIn:**
+### **My LinkedIn:**
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)]((www.linkedin.com/in/benjamin-funk-6a8303359))
 
 ### **Languages & Tech:**
