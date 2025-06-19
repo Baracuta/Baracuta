@@ -8,7 +8,7 @@
 - 🏫 I previously attended the Memorial University of Newfoundland at Grenfell Campus in Corner Brook, Newfoundland.📖
 
 ### **My Projects:**
-- [Campaign Companion](https://baracuta.github.io/Campaign-Companion/)
+- [Campaign Companion](https://baracuta.github.io/CampaignCompanion/)
 - [Critter Counter](https://baracuta.github.io/DnD-Creature-Counter/)
 - [Git Command Glossary](https://baracuta.github.io/GitCommand-Glossary/)
 
