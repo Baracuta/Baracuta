@@ -13,7 +13,7 @@
 - [Git Command Glossary](https://baracuta.github.io/GitCommand-Glossary/)
 
 ### **My LinkedIn:**
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/benjamin-funk-6a8303359)
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)] www.linkedin.com/in/benjamin-funk-6a8303359
 
 ### **Languages & Tech:**
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript) [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
