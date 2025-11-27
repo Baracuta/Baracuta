@@ -17,7 +17,8 @@
 
 ### **Languages & Tech:**
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript) [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![My Skills](https://skillicons.dev/icons?i=css,)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![My Skills](https://skillicons.dev/icons?i=jest)](https://jestjs.io/) [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/) 
+
 
 
 
